@@ -1,10 +1,10 @@
-# This is a header
+# Summary of git commands
 
-In this example repo I won't do much in terms of interesting things.  This is merely an example.
+`git add [FILENAME]` - this adds a file to be commited
 
-(Let's keep it strictly profesh)
+`git commit -m "[MESSAGE GOES HERE]"` - this creates a commit message associated with the edits made
 
+`git push` - Sends the changes made locally up to the remote repository of code and other files up on the internet (somewhere)
 
-## This is a subheader it's also pretty great
+`git pull` - requests and downloads all changes from the remote repository into the local file system
 
-Being professional is lame, I want to be silly.  Now let's go get sandwhiches...
